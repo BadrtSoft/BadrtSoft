@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BadrSoft
 - 👀 I’m interested in EVERYTHING 🌟
-- 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on BigData projects
+- 🌱 I’m currently learning EVERYTHING
+- 💞️ I’m looking to collaborate on Data projects / Life Devs
 - 📫 How to reach me : https://bio.link/badrsoft
 
 <!---
