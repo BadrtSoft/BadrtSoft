@@ -13,7 +13,9 @@ You can click the Preview link to take a look at your changes.
  <hr>
 
 <div align="center">
-  ![BadrtSoft's Stats](https://github-readme-stats.vercel.app/api?username=BadrtSoft&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+  ![BadrtSoft's Stats]()
+   <img src="https://github-readme-stats.vercel.app/api?username=BadrtSoft&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="150" alt="languages graph"  />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BadrtSoft&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
  
