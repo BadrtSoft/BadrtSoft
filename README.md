@@ -9,6 +9,8 @@
 BadrSoft/BadrtSoft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+ <hr>
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=BadrtSoft&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="150" alt="languages graph"  />
 <!--    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BadrtSoft&theme=vue-dark&hide_border=true" height="150" alt="languages graph"  /> -->
@@ -46,3 +48,10 @@ You can click the Preview link to take a look at your changes.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
 </div>
+
+ <hr>
+ 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BadrtSoft&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
