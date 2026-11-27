@@ -3,7 +3,7 @@
 - 👀 I’m interested in EVERYTHING 🌟<br>
 - 🌱 I’m currently learning EVERYTHING <br>
 - 💞️ I’m looking to collaborate on Data projects / Life Devs <br>
-- 📫 How to reach me : https://www.badrsoft.com <br>
+<!-- - 📫 How to reach me : https://www.badrsoft.com <br> -->
 
 <!---
 BadrSoft/BadrtSoft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
